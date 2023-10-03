@@ -1,0 +1,7 @@
+fun main() { 
+    var nombre = "Zarraga Cruz Cinthia Itzel"
+    println("Hello, UPIICSA!!!")
+    println(" "+ nombre)
+    println(" 5CV50")
+    println(" PRIMERA TAREA")
+}
